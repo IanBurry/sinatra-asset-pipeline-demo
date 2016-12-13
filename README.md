@@ -6,3 +6,8 @@ for a Rails-like asset directory structure
 * Clone repository
 * bundle install
 * ruby app.rb -e development
+* URL: http://localhost:4567
+
+# Other things to do
+* Run the rake asset:precompile task and check the public directory for all the fun stuff there
+* Uncomment the set :asset_digest line and rerun the app
