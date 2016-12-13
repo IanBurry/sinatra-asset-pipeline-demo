@@ -1,0 +1,1 @@
+document.write('<p class="test">This is from test.js</p>');
