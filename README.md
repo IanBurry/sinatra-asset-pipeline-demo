@@ -1,5 +1,5 @@
 # sinatra-asset-pipeline
-Simple classic style Sinatra app showing how to configure the sinatra-asset-pipeline gem 
+Simple classic style Sinatra app showing how to configure the [sinatra-asset-pipeline](https://github.com/kalasjocke/sinatra-asset-pipeline) gem 
 for a Rails-like asset directory structure
 
 # Setup and run
